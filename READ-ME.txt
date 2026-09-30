@@ -1,0 +1,1 @@
+Unzip all files, then open index.html. The original 2026 CV is included. Images and galleries work offline. Web fonts and external project/social links require an internet connection.
